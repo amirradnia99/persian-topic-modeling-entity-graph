@@ -37,6 +37,24 @@ pip install -r requirements.txt
 jupyter notebook pipeline.ipynb
 ```
 
+## Data Preparation
+
+Place the Farsi Wikipedia snapshot at:
+
+```text
+data/raw_data.csv
+```
+
+Required columns:
+
+- `title`: Wikipedia article title
+- `content`: Raw article text
+- `link`: Article URL (optional)
+
+Source:
+https://www.kaggle.com/datasets/amirpourmand/fa-wikipedia
+
+
 ## Citation
 
 ```bibtex
