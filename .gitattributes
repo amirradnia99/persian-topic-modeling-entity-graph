@@ -1,0 +1,9 @@
+﻿# Large files should be stored as LFS or ignored
+*.json filter=lfs diff=lfs merge=lfs -text
+
+# Notebooks should use diff
+*.ipynb diff=jupyternotebook
+
+# Images should be treated as binary
+*.png binary
+*.pdf binary
