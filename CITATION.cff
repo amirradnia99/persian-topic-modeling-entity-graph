@@ -1,0 +1,18 @@
+﻿cff-version: 1.2.0
+message: "If you use this work, please cite it as:"
+authors:
+  - family-names: "Radnia"
+    given-names: "Amir"
+title: "Persian Topic Modeling and Entity Association Graph: A Reproducibility Study"
+version: 1.0.0
+date-released: 2026-07-25
+url: "https://github.com/amirradnia99/persian-topic-modeling-entity-graph"
+repository-code: "https://github.com/amirradnia99/persian-topic-modeling-entity-graph"
+keywords:
+  - topic-modeling
+  - bertopic
+  - named-entity-recognition
+  - graph-analysis
+  - persian-language
+  - reproducibility
+license: MIT
