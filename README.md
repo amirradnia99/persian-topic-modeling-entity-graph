@@ -1,4 +1,8 @@
-﻿# Persian Topic Modeling and Entity Association Graph
+﻿[![GitHub license](https://img.shields.io/github/license/amirradnia99/persian-topic-modeling-entity-graph)](https://github.com/amirradnia99/persian-topic-modeling-entity-graph/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/amirradnia99/persian-topic-modeling-entity-graph)](https://github.com/amirradnia99/persian-topic-modeling-entity-graph/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/amirradnia99/persian-topic-modeling-entity-graph)](https://github.com/amirradnia99/persian-topic-modeling-entity-graph/issues)
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat&logo=Jupyter)](https://jupyter.org/try)
+# Persian Topic Modeling and Entity Association Graph
 
 A comprehensive reproducibility pipeline for topic modeling and entity association graph analysis on Persian text data.
 
@@ -117,3 +121,4 @@ Contributions are welcome. Please feel free to submit a Pull Request.
 For questions or issues, please open an issue on GitHub.
 
 > Note: This repository contains the complete reproducibility pipeline and results from the study. The evidence.json file contains all raw results, provenance data, and integrity checks.
+
